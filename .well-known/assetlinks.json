@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aminaprom.pawmanager",
+      "sha256_cert_fingerprints": [
+        "A3:CF:07:E2:87:80:EC:20:9E:60:0E:C8:07:1E:9C:EA:FB:A6:F9:39:8E:02:12:88:13:90:AD:2D:B8:A3:D4:A6",
+        "84:0A:6F:EE:6C:EA:1A:C7:26:4D:55:AB:3E:F9:43:AE:93:FB:3C:D9:75:94:A5:5B:CB:6A:24:27:31:13:E1:05",
+        "48:E2:49:98:5C:5F:D3:58:F4:E5:27:98:21:87:B3:E5:61:21:D5:AC:A2:5C:5B:62:82:E9:D0:AE:FD:87:97:A2"
+      ]
+    }
+  }
+]
